@@ -1,2 +1,4 @@
-# ece309-fall18-unityid
-Repository for students to fork and modify.
+# ece309-fall18-bstobbe
+Benjamin Stobbe
+ECE 309 001
+September 5 2018
